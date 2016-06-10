@@ -1,0 +1,59 @@
+body{
+	background-image: url("../image/carré.jpg");
+	font-family: "Open Sans";
+}
+
+#footer{
+	background-color: #232B40;
+	color: #A0BDE5;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+#footer a{
+	color:  #A0B5DE;
+}
+
+#footer a:hover{
+	color: #DEF6FF
+}
+
+.social a{
+	font-size: 24px;
+}
+
+#wrapper {
+	background-image: url("../image/marie.jpg");
+	height: 1000px;
+	text-align: center;
+	padding-top: 200px;
+	color: white;
+	text-shadow: 2px 2px 5px rgba(0 ,0 , 0, 0.5);
+}
+
+#wrapper h1 {
+	font-size: 72px;
+}
+
+#wrapper h2{
+	font-size: 20px;
+	margin-bottom: 1em;
+}
+
+.spacer {
+	height: 8em;
+
+}
+ 
+.feature {
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.feature img {
+	margin-bottom: 2em;
+}
+
+.navbar-transparent {
+	background-color: rgba( 3, 34, 76, 0.7);
+}
